@@ -1,0 +1,12 @@
+HOST,pinterest.com,Proxy
+HOST,f95zone.to,Proxy
+HOST,capcut.com,Proxy
+HOST,uu-gg.one,Proxy
+HOST,gofile.io,Proxy
+HOST,hanime1.me,Proxy
+HOST,313445.xyz,Proxy
+HOST,labs.google,Proxy
+HOST,redgifs.com,Proxy
+HOST,69yun69.com,Proxy
+HOST,cf.zox.show,Proxy
+HOST,virtamate.com,Proxy
