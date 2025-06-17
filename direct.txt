@@ -2,6 +2,5 @@ DOMAIN-SUFFIX,012294.xyz
 DOMAIN-SUFFIX,entry.zox.show
 DOMAIN-SUFFIX,outong-valve.com
 DOMAIN-SUFFIX,bangumi.ca
-DOMAIN-SUFFIX,rouvless.sbs
 DOMAIN-SUFFIX,makima.online
 DOMAIN-SUFFIX,jiashule.com
