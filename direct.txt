@@ -1,4 +1,4 @@
-HOST,012294.xyz
+DOMAIN-SUFFIX,012294.xyz
 DOMAIN-SUFFIX,entry.zox.show
 DOMAIN-SUFFIX,outong-valve.com
 DOMAIN-SUFFIX,bangumi.ca
