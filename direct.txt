@@ -4,5 +4,4 @@ DOMAIN-SUFFIX,outong-valve.com
 DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,makima.online
 DOMAIN-SUFFIX,jiashule.com
-DOMAIN-SUFFIX,jp.younoyes.com
-DOMAIN-SUFFIX,us.younoyes.com
+DOMAIN-SUFFIX,younoyes.com
