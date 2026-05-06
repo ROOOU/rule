@@ -18,6 +18,20 @@ proxy-groups:
     include-all: true
     type: select
 
+  - name: 漏网之鱼
+    type: select
+    proxies:
+      - 节点选择
+      - ♻️ 自动选择
+      - DIRECT
+      - 香港节点
+      - 台湾节点
+      - 狮城节点
+      - 日本节点
+      - 美国节点
+      - 韩国节点
+      - 手动切换
+
   - name: ♻️ 自动选择
     type: url-test
     include-all: true
@@ -254,20 +268,6 @@ proxy-groups:
     proxies:
       - REJECT
       - DIRECT
-
-  - name: 漏网之鱼
-    type: select
-    proxies:
-      - 节点选择
-      - ♻️ 自动选择
-      - DIRECT
-      - 香港节点
-      - 台湾节点
-      - 狮城节点
-      - 日本节点
-      - 美国节点
-      - 韩国节点
-      - 手动切换
 
   - name: 香港节点
     include-all: true
