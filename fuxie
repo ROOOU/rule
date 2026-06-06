@@ -14,10 +14,6 @@ proxy-groups:
       - 手动切换
       - DIRECT
 
-  - name: 手动切换
-    include-all: true
-    type: select
-
   - name: 漏网之鱼
     type: select
     proxies:
@@ -31,6 +27,11 @@ proxy-groups:
       - 美国节点
       - 韩国节点
       - 手动切换
+
+  - name: 手动切换
+    include-all: true
+    type: select
+
 
   - name: ♻️ 自动选择
     type: url-test
